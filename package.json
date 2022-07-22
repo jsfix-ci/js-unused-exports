@@ -28,7 +28,7 @@
     "@babel/parser": "^7.15.6",
     "@babel/traverse": "^7.15.4",
     "@babel/types": "^7.15.6",
-    "chalk": "^4.1.2",
+    "chalk": "^5.0.1",
     "commander": "^8.2.0",
     "enhanced-resolve": "^5.8.2",
     "glob": "^7.1.7",
